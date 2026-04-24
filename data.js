@@ -12,7 +12,7 @@ const databaseProyek = {
 "sistem_pos2": {
         judul: "Tang San",
         keahlian: ["JavaScript, PHP"],
-        gambar: "https://static.wikia.nocookie.net/soulland/images/a/a1/260.jpeg/revision/latest?cb=20230625103925",
+        gambar: "https://i.pinimg.com/originals/7f/fd/63/7ffd63d23baea51c98d0e9bf5f147900.jpg",
         latar: "Tang San adalah tokoh protagonis utama dalam seri novel fantasi Soul Land (Douluo Dalu) yang ditulis oleh Tang Jia San Shao. Ia dikenal sebagai individu yang tenang, peduli, dan ahli dalam teknik rahasia Sekte Tang. Tang San reinkarnasi dari kehidupan sebelumnya, membangkitkan roh kembar (palu dan rumput), dan menjadi salah satu dewa terkuat.",
         tantangan: "Salah satu tantangan terbesar bagi Tang San adalah menyelesaikan sembilan ujian dari Dewa Laut di Pulau Dewa Laut. Ujian ini sangat berat dan menguras fisik serta mental, bertujuan untuk menguji kelayakannya mewarisi posisi Dewa Laut.",
         pelajaran: "Kekuatan Tang San tidak didapat secara instan, melainkan melalui pelatihan intensif sejak kecil, membangkitkan kekuatannya pada usia 6 tahun, dan terus mengasah kemampuannya.",
